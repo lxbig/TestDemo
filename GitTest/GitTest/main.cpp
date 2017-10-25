@@ -13,5 +13,11 @@ int main(int argc, const char * argv[]) {
     std::cout << "Hello, World!\n";
     printf("Hello Beijing\n");
     //这是分支1的操作
+    /*
+     合并分支
+     同步到服务端
+     删除分支1
+     同步到服务端
+     */
     return 0;
 }
