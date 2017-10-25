@@ -12,5 +12,6 @@ int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
     printf("Hello Beijing\n");
+    //这是分支1的操作
     return 0;
 }
